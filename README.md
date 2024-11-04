@@ -4,7 +4,7 @@
 - CDC COVID data was used as the data source
 
 
-# Title: "COVID-19 Total Cases Informational Graph: Miami-Dade, Broward & Palm Beach Counties"
+## Title: COVID-19 Total Cases Informational Graph: Miami-Dade, Broward & Palm Beach Counties
 
 
 
